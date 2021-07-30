@@ -1,3 +1,2 @@
-# ggonzalez
-
-Portafolio Web usando Html, Css y Javascript.
+# Portafolio Web
+Pagina web usada como portafolio usando Html, Css y Javascript.
